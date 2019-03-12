@@ -1,0 +1,5 @@
+/node_modules
+testdata.json
+station.json
+config.json
+*.txt
